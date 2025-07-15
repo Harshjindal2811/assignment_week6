@@ -61,9 +61,6 @@ Combines both pipelines and includes a monthly trigger to run the entire ETL pro
 ---
 
 ### 🚀 Pipeline 1: On-Premise SQL Server → Azure SQL Database
-<p align="center">
-  <img src="./images/1st_Pipeline.png" alt="1stPipeline" />
-</p>
 
 ### 1. Linked Services
  - On-Premise SQL Server (via Self-Hosted Integration Runtime)
